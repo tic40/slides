@@ -4,10 +4,21 @@
 
 # who am i
 
-<h3>h3h3h3</h3>
-<img src="./img/profile.jpg">
+---
+
+自己紹介
+<img src="./img/profile.jpg" style="height: 50%">
 
 ---
+
+・トーク内容の概要
+・なぜこれを話すのか(前フリ
+・どんな問題があるのか
+・どう解決したのか
+・デモ
+・結論
+
+>>>
 
 # slide 1
 
