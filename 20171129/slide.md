@@ -1,4 +1,4 @@
-# VuexでFluxライクな開発
+# Vue.jsでFluxライクな開発
 
 ---
 
