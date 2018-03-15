@@ -1,4 +1,4 @@
-# 今日が最終出社日
+# お世話になりました
 
 Taishi Inoue
 
@@ -10,11 +10,9 @@ Taishi Inoue
 
 ---
 
-# who am i
-
 <img src="img/profile.jpg" alt="" width="30%" style="">
 <div>
-  2015/03-2018/03
+  2015/03 - 2018/03
 </div>
 
 ---
@@ -27,7 +25,7 @@ Taishi Inoue
 - 自動スピーキングテスト
 - Lunchbox
 
-詳細は以下GitLab wikiにて
+詳細は以下にて
 
 http://example.com
 
@@ -38,11 +36,7 @@ http://example.com
 
 ---
 
-# 大変お世話に
-
----
-
-# なりました!
+# 大変お世話になりました
 
 ## Good luck and keep in touch!
 
@@ -50,7 +44,8 @@ http://example.com
 
 ## 何かあればこちらまで
 
-- FB: facebook.com/taishi40
-- GitHub/Twitter: @tic40
+- FB: https://www.facebook.com/taishi40
+- GitHub: https://github.com/tic40
+- Twitter: https://twitter.com/tic40
 
-<small>*お仕事の依頼もお待ちしてます</small>
+<small>*お仕事の話もお待ちしてます</small>
