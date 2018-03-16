@@ -21,31 +21,22 @@ Taishi Inoue
 
 ---
 
-- レッスンルーム
-- 自動スピーキングテスト
-- Lunchbox
+## 詳細は以下にて
 
-詳細は以下にて
+レッスンルーム/自動スピーキングテスト/ランチボックス...
 
-http://example.com
+knowledge.rarejob.com/open.knowledge/view/106
 
 ---
 
 
-# 3年間
-
----
-
-# 大変お世話になりました
-
-## Good luck and keep in touch!
+# 3年間、大変お世話になりました
 
 ---
 
 ## 何かあればこちらまで
 
 - FB: https://www.facebook.com/taishi40
-- GitHub: https://github.com/tic40
-- Twitter: https://twitter.com/tic40
+- GitHub/Twitter: @tic40
 
 <small>*お仕事の話もお待ちしてます</small>
